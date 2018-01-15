@@ -4,4 +4,4 @@ then pressing the conversion that you wish. I built this to learn the java swing
 
 Here is the initial screen:
 
-![Initial Screen] (https://github.com/mdecaire/mlConversionCalc/blob/master/mltooz/mltooz_blank.PNG)
+![blank screen](https://github.com/mdecaire/mlConversionCalc/blob/master/mltooz/mltooz_blank.PNG)
